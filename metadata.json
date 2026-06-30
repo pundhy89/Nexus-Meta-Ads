@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Ads Manager",
+  "description": "A futuristic Meta Ads Manager dashboard with pixel integration and real-time performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
